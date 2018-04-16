@@ -17,7 +17,7 @@ chown root:apache       /var/www/html/upload_images
 chmod 775               /var/www/html/upload_images
 ```
 
-## Configuration settings:
+## Configuration settings in upload_image.pl:
 
 * UPLOAD_DIR
 * UPLOAD_URL
